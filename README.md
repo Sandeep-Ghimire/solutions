@@ -1,2 +1,2 @@
 # solutions
-programs to solve typical hackathon problems
+procedures that solves various problems
